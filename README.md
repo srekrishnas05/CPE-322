@@ -17,5 +17,5 @@ I am proficient in these languages
 
 [Here is my linkedin!](https://www.linkedin.com/in/srekrishnasubrahamanian/)
 
-
+![Here is a picture of my university](https://downloads.ctfassets.net/mviowpldu823/5xAwOISiMuAcUmAsMdYjNG/ac0186e3e5221ebec664d4b5595796ce/2.Where_to_Give.jpg)
 
