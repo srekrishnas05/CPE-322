@@ -1,4 +1,4 @@
 # CPE 322 Repo
-## Sre krishna Subrahamanian
-### Bachelors of Engineering - Computer Engineering
+## **Hi there, I'm Sre krishna Subrahamanian, a student at Stevens Institute of Technology. I'm studying Computer Engineering.**
+
 
