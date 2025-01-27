@@ -7,7 +7,11 @@ A few of my interests are:
 3. Computers
 
 I am proficient in these languages
--C++
--Arduino.IDE
--Python
+- C++
+- Arduino.IDE
+- Python
+
+[Here is my linkedin!] (https://www.linkedin.com/in/srekrishnasubrahamanian/)
+
+
 
