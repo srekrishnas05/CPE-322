@@ -11,7 +11,7 @@ I am proficient in these languages
 - Arduino.IDE
 - Python
 
-[Here is my linkedin!] (https://www.linkedin.com/in/srekrishnasubrahamanian/)
+[Here is my linkedin!](https://www.linkedin.com/in/srekrishnasubrahamanian/)
 
 
 
