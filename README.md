@@ -11,7 +11,7 @@ I am proficient in these languages
 - Arduino.IDE
 - Python
 
-*I would love to use a raspberry PI for this course*
+*I would love to use a Raspberry Pi for this course*
 
 ---
 
@@ -21,3 +21,12 @@ I am proficient in these languages
 
 ![Here is a picture of my university](https://tour.stevens.edu/maps/UMAP_2017082365446_MINI.jpg)
 
+---
+
+```
+{
+  "firstName": "Sre krishna",
+  "lastName": "Subrahamanian",
+  "age": 19
+}
+```
