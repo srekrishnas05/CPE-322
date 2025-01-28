@@ -25,8 +25,6 @@ I am proficient in these languages
 
 ```
 {
-  "firstName": "Sre krishna",
-  "lastName": "Subrahamanian",
-  "age": 19
+  cout << "Hello World!" << endl;
 }
 ```
