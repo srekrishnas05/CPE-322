@@ -28,5 +28,5 @@ I am proficient in these languages
   cout << "Hello World!" << endl;
 }
 ```
-Lab 1:
-I just downloaded the GHDL and GTKWave applications! I performed the half adder function!
+
+
