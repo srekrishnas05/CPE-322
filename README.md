@@ -9,7 +9,7 @@ A few of my interests are
 I am proficient in these languages
 - C++
 - Arduino.IDE
-- Python
+- ARM Assembly
 
 *I would love to use a Raspberry Pi for this course*
 
