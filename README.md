@@ -1,16 +1,10 @@
 ## **Hi there, I'm Sre krishna Subrahamanian, a student at Stevens Institute of Technology. I'm studying Computer Engineering.**
-## I've created this GitHub Repo to showcase some cool projects I've worked on, both in and out of school ##
+### I've created this GitHub Repo to showcase some cool projects I've worked on, both in and out of school ###
 
 A few of my interests are
 1. Firmware & Embedded Systems
 2. Physics, Astronomy, & Math
-3. 
-
-I am proficient in these languages
-- C++
-- Arduino.IDE
-- Assembly
-- Python
+3. AI/ML Development & Applications
 
 ---
 
@@ -21,6 +15,7 @@ I am proficient in these languages
 ![Here is a picture of my university](https://tour.stevens.edu/maps/UMAP_2017082365446_MINI.jpg)
 
 ---
+Here's a little snippet you can run through your terminal!
 
 ```
 #include <iostream>
