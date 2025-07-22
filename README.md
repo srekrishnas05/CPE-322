@@ -22,9 +22,37 @@ I am proficient in these languages
 ---
 
 ```
-{
-  cout << "Hello World!!" << endl;
+#include <iostream>
+#include <cmath>
+#include <chrono>
+#include <thread>
+
+int main() {
+    const int width = 80;
+    const int height = 24;
+    float t = 0;
+
+    while (true) {
+        std::system("clear"); // Use "cls" on Windows
+
+        for (int y = 0; y < height; y++) {
+            for (int x = 0; x < width; x++) {
+                float dx = x - width / 2;
+                float dy = y - height / 2;
+                float dist = std::sqrt(dx * dx + dy * dy);
+                char c = " .:-=+*#%@"[(int)(5 + 5 * std::sin(dist / 2 - t)) % 10];
+                std::cout << c;
+            }
+            std::cout << '\n';
+        }
+
+        t += 0.1f;
+        std::this_thread::sleep_for(std::chrono::milliseconds(50));
+    }
+
+    return 0;
 }
+
 ```
 
 
