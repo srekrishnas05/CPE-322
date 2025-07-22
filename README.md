@@ -1,4 +1,3 @@
-# CPE 322 Repo
 ## **Hi there, I'm Sre krishna Subrahamanian, a student at Stevens Institute of Technology. I'm studying Computer Engineering.**
 
 A few of my interests are
@@ -9,9 +8,8 @@ A few of my interests are
 I am proficient in these languages
 - C++
 - Arduino.IDE
-- ARM Assembly
-
-*I would love to use a Raspberry Pi for this course*
+- Assembly
+- Python
 
 ---
 
