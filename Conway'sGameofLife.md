@@ -1,6 +1,7 @@
 ## Hello, I originally coded Conway's Game of Life in 2023, but came across it on my computer and thought I would share. I used **C++ and SFML!** I'll attach the code down below! ##
 
 '
+
 #include <SFML/Graphics.hpp>
 #include <vector>
 
@@ -12,7 +13,6 @@ const int CELL_SIZE = WINDOW_WIDTH / COLS;
 
 using Grid = std::vector<std::vector<bool>>;
 
-// Count alive neighbors for a cell
 int countAliveNeighbors(const Grid& grid, int row, int col) {
     int count = 0;
     for (int dr = -1; dr <= 1; ++dr) {
@@ -28,7 +28,6 @@ int countAliveNeighbors(const Grid& grid, int row, int col) {
     return count;
 }
 
-// Compute next generation
 Grid nextGeneration(const Grid& grid) {
     Grid newGrid = grid;
     for (int r = 0; r < ROWS; ++r) {
@@ -89,5 +88,6 @@ int main() {
 
     return 0;
 }
+
 '
 
