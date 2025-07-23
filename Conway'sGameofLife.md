@@ -91,3 +91,22 @@ int main() {
 
 ```
 
+To run this code, you do need:
+1) C++17 or newer
+2) SFML 2.5.1
+These can be downloaded through brew!
+
+To run this through your terminal on Mac, copy & paste the code into VSCode, save & name the file "conway.cpp," then in your terminal, enter the following script!
+
+```bash
+g++ -std=c++17 conway.cpp -o game \
+-I/opt/homebrew/opt/sfml@2/include \
+-L/opt/homebrew/opt/sfml@2/lib \
+-lsfml-graphics -lsfml-window -lsfml-system
+```
+
+followed by 
+```
+./game
+```
+
