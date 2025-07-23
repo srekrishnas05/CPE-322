@@ -12,7 +12,8 @@ A few of my interests are
 [Here is my linkedin!](https://www.linkedin.com/in/srekrishnasubrahamanian/)
 
 >Here is a picture of me with my favorite animal!
-~[IMG_2987](https://github.com/user-attachments/assets/989dac2b-5b20-4d05-92c8-c4d221b78c2f)
+
+![IMG_2987](https://github.com/user-attachments/assets/989dac2b-5b20-4d05-92c8-c4d221b78c2f)
 
 
 >Here is a picture of my university!
