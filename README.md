@@ -12,20 +12,15 @@ A few of my interests are
 [Here is my linkedin!](https://www.linkedin.com/in/srekrishnasubrahamanian/)
 
 >Here is a picture of me with my favorite animal!
-
-![IMG_2987](https://github.com/user-attachments/assets/989dac2b-5b20-4d05-92c8-c4d221b78c2f)
 <p align="center">
-  <img src="your_image_url1" width="300" height="400" />
-  <img src="your_image_url2" width="300" height="400" />
-</p>
-
+  <img src="IMAGE_1_URL" width="300" height="300" /><br>
+  <em>Here is a picture of me with my favorite animal!</em><br><br>
+  <img
 
 >Here is a picture of my university!
-
-![Here is a picture of my university](https://tour.stevens.edu/maps/UMAP_2017082365446_MINI.jpg)
 <p align="center">
-  <img src="your_image_url1" width="300" height="400" />
-  <img src="your_image_url2" width="300" height="400" />
+  <img src="https://github.com/user-attachments/assets/989dac2b-5b20-4d05-92c8-c4d221b78c2f" width="300" height="300" />
+  <img src="https://tour.stevens.edu/maps/UMAP_2017082365446_MINI.jpg" width="300" height="300" />
 </p>
 
 ---
