@@ -1,6 +1,6 @@
 ## Hello, I originally coded Conway's Game of Life in 2023, but came across it on my computer and thought I would share. I used **C++ and SFML!** I'll attach the code down below! ##
 
-'''
+```
 
 #include <SFML/Graphics.hpp>
 #include <vector>
@@ -89,5 +89,5 @@ int main() {
     return 0;
 }
 
-'''
+```
 
