@@ -14,11 +14,19 @@ A few of my interests are
 >Here is a picture of me with my favorite animal!
 
 ![IMG_2987](https://github.com/user-attachments/assets/989dac2b-5b20-4d05-92c8-c4d221b78c2f)
+<p align="center">
+  <img src="your_image_url1" width="300" height="400" />
+  <img src="your_image_url2" width="300" height="400" />
+</p>
 
 
 >Here is a picture of my university!
 
 ![Here is a picture of my university](https://tour.stevens.edu/maps/UMAP_2017082365446_MINI.jpg)
+<p align="center">
+  <img src="your_image_url1" width="300" height="400" />
+  <img src="your_image_url2" width="300" height="400" />
+</p>
 
 ---
 Here's a little snippet you can run through your terminal!
