@@ -5,7 +5,8 @@
 A few of my interests are
 1. Firmware & Embedded Systems
 2. Physics, Astronomy, & Math
-3. AI/ML Development & Applications
+3. Renewable Energy & Sustainability
+4. AI/ML Development & Applications
 
 ---
 
