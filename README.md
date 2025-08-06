@@ -3,3 +3,5 @@
 
 The labs for this course range from python/command line programming to Django Web Development and even SQLite!
 This repo will document the code used and outputs for each of the 10 labs assigned in the course curriculum.
+
+This repository is for educational and portfolio use.
